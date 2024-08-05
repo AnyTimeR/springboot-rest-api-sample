@@ -49,4 +49,4 @@ Este projeto foi desenvolvido como parte do curso oferecido pelo JDev Treinament
    ```
 
 5. **Acessar a Aplicação**:
-   - A aplicação estará disponível em `http://localhost:8080`.
+   - A aplicação estará disponível em `http://localhost:8081`.
