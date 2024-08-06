@@ -12,7 +12,6 @@ Este projeto é um exemplo de CRUD (Create, Read, Update, Delete) completo utili
 - **pgAdmin 4**: Interface gráfica para gerenciamento do PostgreSQL.
 - **REST API**: Arquitetura utilizada para construção da interface de comunicação entre o cliente e o servidor.
 - **Hospedagem Cloud**: Plataforma de hospedagem na nuvem para disponibilização da aplicação.
-- **Heroku**: Serviço de hospedagem em nuvem onde a aplicação está disponibilizada.
 
 ## JDev Treinamento
 
@@ -31,7 +30,6 @@ Este projeto foi desenvolvido como parte do curso oferecido pelo JDev Treinament
    - Java 11 ou superior instalado.
    - Maven instalado.
    - PostgreSQL 16 instalado e configurado.
-   - Conta no Heroku (opcional para hospedagem).
 
 2. **Clonar o Repositório**:
    ```sh
