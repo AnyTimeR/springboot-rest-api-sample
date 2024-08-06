@@ -73,7 +73,7 @@ public class GreetingsController {
     @ResponseBody /* descrição da resposta */
     public ResponseEntity<?> atualizar(@RequestBody Usuario usuario) { /* recebe os dados para atualizar */
         if(usuario.getId() == null) {
-            return new ResponseEntity<String>("id não foi informado para atualização", HttpStatus.OK);
+            return new ResponseEntity<String>("ID não foi informado para atualização", HttpStatus.OK);
         }
         
         Usuario user = usuarioRepository.saveAndFlush(usuario);
@@ -86,7 +86,7 @@ public class GreetingsController {
     public ResponseEntity<String> delete(@RequestParam Long iduser) { /* recebe os dados para deletar */
         usuarioRepository.deleteById(iduser);
 
-        return new ResponseEntity<String>("user deletado com sucesso", HttpStatus.OK);
+        return new ResponseEntity<String>("User deletado com sucesso", HttpStatus.OK);
     }
 
     @GetMapping(value = "buscaruserid") /* mapeia a url */

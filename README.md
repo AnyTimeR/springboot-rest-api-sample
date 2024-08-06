@@ -2,6 +2,9 @@
 
 Este projeto é um exemplo de CRUD (Create, Read, Update, Delete) completo utilizando Spring Boot e uma API RESTful. O objetivo é demonstrar como construir uma aplicação backend robusta com Java e Spring Boot, integrando-a com um banco de dados PostgreSQL e disponibilizando-a na nuvem.
 
+![Imagem CRUD](assets/print1.png)
+![Imagem CRUD](assets/print2.png)
+
 ## Ferramentas Utilizadas
 
 - **Java**: Linguagem de programação utilizada para o desenvolvimento do backend.

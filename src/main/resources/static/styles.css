@@ -1,0 +1,21 @@
+html {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+}
+body {
+    background-color: #212529;
+    color: white;
+}
+.modal-content {
+    background-color: #212529;
+    color: white;
+}
+th {
+    background-color: #212529;
+    color: white;
+}
+tbody {
+    background-color: #212529;
+    color: white;
+}
